@@ -17,7 +17,7 @@ A console-based project written in C that demonstrates the core concepts of data
 * Stacks
 * Queues
 * Trees
-* Graphs
+
 
 ## Technologies
 
