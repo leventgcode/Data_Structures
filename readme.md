@@ -6,8 +6,6 @@ A console-based project written in C that demonstrates the core concepts of data
 
 * Introduction to basic data structures
 * Example implementations in C
-* Menu-driven interface for testing structures
-* Dynamic memory management
 * Linked list–based demonstrations
 
 ## Topics Covered
